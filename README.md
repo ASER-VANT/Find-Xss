@@ -47,5 +47,7 @@ One Command Installation:
 	
 Please Let We Know If There Is An Error
 
-> [INSTAGRAM](https://instagram.com/aser_vant/)
-> [INSTAGRAM](https://instagram.com/saep_officiall_/)
+> [INSTAGRAM ASER](https://instagram.com/aser_vant/)
+
+
+> [INSTAGRAM SAEP](https://instagram.com/saep_officiall_/)
