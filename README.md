@@ -11,11 +11,11 @@
 
 Download:
 
-	``git clone https://github.com/ASER-VANT/Find-Xss
+	git clone https://github.com/ASER-VANT/Find-Xss
 	cd Find-Xss
 	chmod 777 setup.sh
 	./setup.sh
-	python3 findxss.py``
+	python3 findxss.py
 
 
 
@@ -24,4 +24,4 @@ Download:
 
 One Command Installation:
 
-	``git clone https://github.com/ASER-VANT/Find-Xss && cd Find-Xss && chmod 777 setup.sh && ./setup.sh && python3 findxss.py``
+	git clone https://github.com/ASER-VANT/Find-Xss && cd Find-Xss && chmod 777 setup.sh && ./setup.sh && python3 findxss.py
