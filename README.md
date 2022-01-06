@@ -43,3 +43,9 @@ Termux Download:
 One Command Installation:
 
 	pkg install git && git clone https://github.com/ASER-VANT/Find-Xss && cd Find-Xss && chmod 777 setup.sh && ./setup.sh && python3 findxss.py
+	
+	
+Please Let We Know If There Is An Error
+
+> [INSTAGRAM](https://instagram.com/aser_vant/)
+> [INSTAGRAM](https://instagram.com/saep_officiall_/)
