@@ -1,6 +1,7 @@
+#!usr/bin/env python3
+
 import os, requests, time
 from colorama import Fore
-os.system("apt install figlet")
 os.system("clear")
 print(Fore.CYAN + """
    _  __              _______           __
@@ -10,8 +11,9 @@ print(Fore.CYAN + """
 /_/|_/____/____/  /_/   /_/_/ /_/\__,_/
 """)
 print(Fore.RED + "Web URL XSS test script\n")
-print(Fore.BLUE + "Author = Saep\n")
-print(Fore.GREEN + "Version 0.1\n")
+print(Fore.BLUE + "PRODUCER = Saep\n")
+print(Fore.BLUE + "Updater = ASER\n")
+print(Fore.GREEN + "Version 0.4\n")
 
 payload1 = "<script>alert(:D)</script>"
 payload2 = """<ScRipT>alert("XSS");</ScRipT>"""

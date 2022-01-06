@@ -2,12 +2,26 @@
 
 ## Waf Bypass Eklendi !!!
 
-### Yapım Mimarı: Saep
+### PRODUCER: Saep
 
-### Güncelleme: Aser-Vant
-
->[Instagram SAEP](https://www.instagram.com/saep_official_/)
+### UPDATER: Aser-Vant
 
 
 
->[İnstagram ASER](https://www.instagram.com/aser_vant/)
+
+Download:
+
+	``git clone https://github.com/ASER-VANT/Find-Xss
+	cd Find-Xss
+	chmod 777 setup.sh
+	./setup.sh
+	python3 findxss.py``
+
+
+
+
+
+
+One Command Installation:
+
+	``git clone https://github.com/ASER-VANT/Find-Xss && cd Find-Xss && chmod 777 setup.sh && ./setup.sh && python3 findxss.py``
